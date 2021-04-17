@@ -11,6 +11,7 @@ ___
 ### Outputs
 
 1. src = "https://storage.googleapis.com/bizupimg/profile_photo/IMG_20200917_190810.jpg"
+
 **Output**
     ```json
     {
@@ -19,6 +20,7 @@ ___
     }
     ```
 2. src = "https://storage.googleapis.com/bizupimg/profile_photo/Screenshot%202020-08-16%20at%205.02.30%20PM%20-%20Nikunj%20Daruka.png"
+
 **Output**
     ```json
     {
@@ -28,6 +30,7 @@ ___
     ```
 
 3. src = "https://storage.googleapis.com/bizupimg/profile_photo/DigiKarobar-black.jpeg"
+
 **Output**
     ```json
     {
@@ -36,6 +39,7 @@ ___
     }
     ```
 4. src = "https://storage.googleapis.com/bizupimg/profile_photo/WhatsApp%20Image%202020-08-23%20at%203.11.46%20PM%20-%20Himanshu%20Kohli.jpeg"
+
 **Output**
     ```json
     {
